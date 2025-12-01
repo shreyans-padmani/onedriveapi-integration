@@ -1,0 +1,95 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+venv.bak/
+
+# Pipenv / Poetry
+Pipfile.lock
+poetry.lock
+
+# Environment / secrets
+.env
+.env.*
+*.env
+secrets.*
+credentials.json
+client_secret.json
+token.json
+token.pickle
+
+# Database files
+*.db
+*.sqlite3
+
+# Jupyter
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Sphinx
+docs/_build/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# OneDrive / sync temp files
+~$*
+~*.tmp
+~*.onetoc2
+
+# Misc
+*.log
+*.bak
+*.swp
+.cache/
