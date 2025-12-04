@@ -47,6 +47,7 @@ ENV/
 env/
 .venv/
 venv.bak/
+.env
 
 # Pipenv / Poetry
 Pipfile.lock
